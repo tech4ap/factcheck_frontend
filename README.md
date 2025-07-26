@@ -190,12 +190,3 @@ If you encounter any issues or have questions:
 2. Search existing issues on GitHub
 3. Create a new issue with detailed information
 
-## Related
-
-- Backend API repository: [Add link to backend repo]
-- Documentation: [Add link to detailed docs]
-- Live Demo: [Add link to deployed application]
-
----
-
-**Built with love using React, TypeScript, and Vite** 
